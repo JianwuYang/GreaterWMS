@@ -41,7 +41,7 @@ def cn_data_header():
             ("goods_class", "商品类别"),
             ("goods_brand", "商品品牌"),
             ("goods_color", "商品颜色"),
-            ("goods_shape", "商品形状"),
+            ("goods_shape", "商品尺码"),
             ("goods_specs", "商品规格"),
             ("goods_origin", "商品产地"),
             ("goods_cost", "商品成本"),

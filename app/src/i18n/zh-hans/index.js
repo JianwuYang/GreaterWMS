@@ -263,7 +263,7 @@ export default {
     class: '商品类别',
     color: '商品颜色',
     brand: '商品品牌',
-    shape: '商品形状',
+    shape: '商品尺码',
     specs: '商品规格',
     origin: '商品产地',
     view_goodslist: {
@@ -280,7 +280,7 @@ export default {
       goods_class: '商品类别',
       goods_brand: '商品品牌',
       goods_color: '商品颜色',
-      goods_shape: '商品形状',
+      goods_shape: '商品尺码',
       goods_specs: '商品规格',
       goods_origin: '商品产地',
       goods_cost: '商品成本',
@@ -313,8 +313,8 @@ export default {
       error1: '请输入商品品牌'
     },
     view_shape: {
-      goods_shape: '商品形状',
-      error1: '请输入商品形状'
+      goods_shape: '商品尺码',
+      error1: '请输入商品尺码'
     },
     view_specs: {
       goods_specs: '商品规格',
@@ -540,7 +540,7 @@ export default {
       goods_classerror: '商品类别已存在',
       goods_colorerror: '商品颜色已存在',
       goods_branderror: '商品品牌已存在',
-      goods_shapeerror: '商品形状已存在',
+      goods_shapeerror: '商品尺码已存在',
       goods_specserror: '商品规格已存在',
       goods_originerror: '商品产地已存在'
     },
